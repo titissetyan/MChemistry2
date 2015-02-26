@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFCC">
+
+
+
+    <Button
+        android:layout_width="1500dp"
+        android:layout_height="60dp"
+        android:background="#FF6600"
+        android:text="2. REAKSI KIMIA"
+        android:textSize="22dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/button"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+
+        android:text="      Reaksi kimia adalah peristiwa perubahan kimia dari zat-zat yang bereaksi (reaktan) menjadi zat-zat hasil reaksi (produk). Pada reaksi kimia selalu dihasilkan zat-zat yang baru dengan sifat-sifat yang baru. Reaksi kimia dituliskan dengan menggunakan lambang unsur.
+
+Contoh di bawah adalah reaksi antara merkuri dengan oksigen:
+
+    HgO → Hg + O2
+
+Pada reaksi kimia di atas, dapat diterjemahkan bahwa Molekul HgO yang terdiri dari satu atom merkuri (Hg) dan satu atom hidrogen (O), menghasilkan (→) satu molekul yang terdiri dari satu atom merkuri (Hg), dan satu molekul yang terdiri dari dua atom oksigen (O2).
+
+Suatu reaksi kimia merupakan gabungan beberapa lambang, yang selanjutnya dinamakan dengan persamaan kimia. Zat yang berada di sebelah kiri anak panah disebut dengan pereaksi, sedangkan zat yang berada di sebelah kanan anak panah disebut dengan hasil reaksi.
+"
+        android:id="@+id/textView7"
+        android:layout_below="@+id/button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF6600"
+        android:text="Kembali"
+        android:textColor="#FFFFFF"
+        android:textSize="14dp"
+        android:id="@+id/button8"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
+

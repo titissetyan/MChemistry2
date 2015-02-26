@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView2"
+        android:background="@drawable/mchemistry"
+        android:layout_above="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="57dp" />
+
+
+    <Button
+        android:layout_width="1500dp"
+        android:background="#FF6600"
+        android:layout_height="40dp"
+        android:text="MENU UTAMA"
+        android:textSize="16dp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/button9"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView3"
+        android:background="@drawable/latihan"
+
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/imageView4"
+        android:layout_alignStart="@+id/imageView4" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView4"
+        android:background="@drawable/video"
+        android:layout_marginTop="74dp"
+        android:layout_below="@+id/imageView3"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mchemstry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menutama">menutama</string>
+    <string name="title_activity_materi">materi</string>
+    <string name="title_activity_konsepmol">konsepmol</string>
+    <string name="title_activity_soal">soal</string>
+    <string name="title_activity_tabelperiodik">tabelperiodik</string>
+    <string name="title_activity_reaksikimia">reaksikimia</string>
+    <string name="title_activity_video">video</string>
+    <string name="title_activity_menuvideo">menuvideo</string>
+    <string name="title_activity_soal2">soal2</string>
+    <string name="title_activity_soal3">soal3</string>
+    <string name="title_activity_video2">video2</string>
+    <string name="title_activity_video3">video3</string>
+    <string name="title_activity_videoperiodik">videoperiodik</string>
+    <string name="title_activity_videomateri">videomateri</string>
+    <string name="title_activity_materidanperubahan">materidanperubahan</string>
+    <string name="title_activity_elektrokimia">elektrokimia</string>
+    <string name="title_activity_nilai">nilai</string>
+
+</resources>
